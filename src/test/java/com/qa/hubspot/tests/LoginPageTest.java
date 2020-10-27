@@ -16,7 +16,7 @@ import io.qameta.allure.SeverityLevel;
 
 
 @Epic("EPIC 100: Design Login Page Feature for the HubSopt Application")
-@Feature("US 101: Design lLogin Page module with title, sign up and login form")
+@Feature("US 101: Design Login Page module with title, sign up and login form")
 @Listeners(TestAllureListener.class) // If by default screenshots are not coming with test results
 public class LoginPageTest extends BaseTest
 {
